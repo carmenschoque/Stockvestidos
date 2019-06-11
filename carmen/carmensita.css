@@ -1,0 +1,16 @@
+@charset "utf-8";
+#cuerpo {
+	width: 1000px;
+}
+#texto  {
+	width: 500px;
+}
+#grafico {
+	width: 500px;
+	float: right;
+}
+.fuente1 {
+	color: #003333;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-style: italic;
+}
